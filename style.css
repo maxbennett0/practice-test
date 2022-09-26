@@ -1,1 +1,13 @@
 /* YOUR STYLES HERE */
+h1{
+  color: #ffffff ;
+  background-color: #111927;
+}
+.smhead{
+  color: #ffdb6d;
+  text-align: center;
+  padding: 1rem;
+  background-color: #1d2531;
+  border: solid;
+  border-color: #ffdb6d;
+}
